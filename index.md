@@ -9,3 +9,8 @@
 echo "Talk is cheap, show me the code";
 ?>
 ```
+###### Every programmer has three things in commons:
+
+- [x] Code
+- [x] Error
+- [x] Run
